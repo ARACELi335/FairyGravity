@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|c:\\users\\erikp\\desktop\\unity\\gravityrunner\\assets\\scripts\\logoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|c:\\users\\erikp\\desktop\\unity\\gravityrunner\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|c:\\users\\erikp\\desktop\\unity\\gravityrunner\\assets\\scripts\\playercollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\createprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\moveprefabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveprefabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\playerinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\parallaxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallaxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\destroyprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\src_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\src_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\src_safearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\src_safearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\assets\\scripts\\backgroundadjust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F258F7-6689-7027-7ADD-C44C7E186DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundadjust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMove.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T21:39:52.329Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:20:54.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogoLoader.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\LogoLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LogoLoader.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\LogoLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LogoLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:14:27.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCollisions.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\PlayerCollisions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollisions.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\PlayerCollisions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollisions.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T18:37:47.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:05:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovePrefabs.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\MovePrefabs.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovePrefabs.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\MovePrefabs.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovePrefabs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T18:21:06.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePrefab.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\CreatePrefab.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreatePrefab.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\CreatePrefab.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreatePrefab.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:59:02.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerInitialize.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\PlayerInitialize.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInitialize.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\PlayerInitialize.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInitialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T00:10:15.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParallaxScript.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\ParallaxScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParallaxScript.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\ParallaxScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParallaxScript.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T22:39:53.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DestroyPrefab.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\DestroyPrefab.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyPrefab.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\DestroyPrefab.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyPrefab.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T18:34:50.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BackgroundAdjust.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\BackgroundAdjust.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundAdjust.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\BackgroundAdjust.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundAdjust.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:11:19.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Src_safeArea.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\Src_safeArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Src_safeArea.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\Src_safeArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Src_safeArea.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T01:39:03.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Src_camera.cs",
+              "DocumentMoniker": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\Src_camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Src_camera.cs",
+              "ToolTip": "C:\\Users\\erikp\\Desktop\\Unity\\GravityRunner\\Assets\\Scripts\\Src_camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Src_camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T01:36:56.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
